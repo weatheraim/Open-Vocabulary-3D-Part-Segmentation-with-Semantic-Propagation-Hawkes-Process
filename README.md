@@ -2,5 +2,5 @@
 Official code for NeurIPS 2026
 
 Coming Soon
-The full source code, checkpoints, and training scripts will be released after the paper review period.
+The full source code, checkpoints, and training scripts will be released.
 
